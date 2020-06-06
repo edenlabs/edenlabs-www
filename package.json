@@ -2,7 +2,10 @@
   "name": "edenlabs-www",
   "version": "1.0.0",
   "description": "The official website for Eden Labs.",
-  "author": "Eden Labs",
+  "author": {
+    "name": "Eden Labs",
+    "url": "https://edenlabs.dev"
+  },
   "private": true,
   "scripts": {
     "dev": "nuxt",
