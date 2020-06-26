@@ -7,7 +7,7 @@ export default {
   head: {
     htmlAttrs: {
       lang: 'en',
-      class: 'antialiased',
+      class: 'antialiased bg-gray-900 text-white',
     },
     title: 'eden labs',
     meta: [
