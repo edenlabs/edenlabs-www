@@ -14,7 +14,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "@tailwindcss/ui": "^0.3.0",
+    "nuxt": "^2.0.0",
+    "vue-property-decorator": "^8.4.2"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "^0.6.0",
